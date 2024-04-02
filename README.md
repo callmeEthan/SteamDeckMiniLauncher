@@ -5,7 +5,7 @@ I wanted to play some mini game on steam deck, but don't want to bother adding e
 It is useful for launching many mini game. Or a game series/franchise without them needing to be added to steam library individually. These game will also share the same compat data, saving some disk space, and allow games such as Mass Effect to share save files.
 # How to run
 - Download the [latest release](https://github.com/callmeEthan/SteamDeckMiniLauncher/releases) onto your steam deck, extract it anywhere.  
-- Add **AutoLauncher** to steam as non-steam game, make sure to run it with Proton compatibility.  
+- Add **AutoLauncher.exe** to steam as non-steam game, make sure to run it with Proton compatibility.  
 - Navigate with dpad left, right. Press A to start game. Press B to exit.
 - **Some file are included as an example template, you should delete them and move your own game folder in.**
 # How to config/add game
