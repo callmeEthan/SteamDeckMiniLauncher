@@ -7,6 +7,7 @@ It is useful for launching many mini game. Or a game series/franchise without th
 - Download the [latest release](https://github.com/callmeEthan/SteamDeckMiniLauncher/releases) onto your steam deck, extract it anywhere.  
 - Add **AutoLauncher** to steam as non-steam game, make sure to run it with Proton compatibility.  
 - Navigate with dpad left, right. Press A to start game. Press B to exit.
+- **Some file are included as an example template, you should delete them and move your own game folder in.**
 # How to config/add game
 There is no config interface, all setting are inside ini files.  
 Once the launcher started, it will looks for games folder inside "Games\\\*", you can edit **setting.ini** to change game folder, title and background image.  
