@@ -26,6 +26,7 @@ title="Application"
 - background: image file to use as background, place the image next to the ini file. If image file is not found, it will use default background instead.
 - title: name of the category to display.
 </details>  
+
 ### Games/Entries  
 Each folder inside the categories folder are considered an entry, and a **launcher.ini** file will be created inside them.  
 ```
