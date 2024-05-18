@@ -2,7 +2,7 @@
 I wanted to play some mini game on steam deck, but don't want to bother adding every game onto steam and customize cover, icon, background, ect... So this launcher was created.  
 **Made using gamemaker 2 in a day**
 ![alt text](https://github.com/callmeEthan/SteamDeckMiniLauncher/blob/main/Screenshot/screenshot0.png?raw=true)
-It is useful as a launcher for many mini game, multiple launcher option for a single game, or a laucher for game series/franchise without them needing to be added to steam library individually. These game will also share the same compatdata, saving some disk space, and allow games such as Mass Effect to share save files.
+It is useful as a launcher for many mini game, multiple launch option for a single game, or a laucher for game series/franchise without them needing to be added to steam library individually. These game will also share the same compatdata, saving some disk space, and allow games such as Mass Effect to share save files.
 # How to run
 - Download the [latest release](https://github.com/callmeEthan/SteamDeckMiniLauncher/releases) onto your steam deck, extract it anywhere.  
 - Add **AutoLauncher.exe** to steam as non-steam game, make sure to run it with Proton compatibility.  
