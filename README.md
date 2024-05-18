@@ -21,12 +21,12 @@ background=""
 title="Application"
 ```
 <details>
-  <summary>Variables detail</summary>
+  <summary>Variables detail 👈</summary>
 - ignore: set to 1 to hide this category.
 - background: image file to use as background, place the image next to the ini file. If image file is not found, it will use default background instead.
 - title: name of the category to display.
-</details>
-### Games/Entries
+</details>  
+### Games/Entries  
 Each folder inside the categories folder are considered an entry, and a **launcher.ini** file will be created inside them.  
 ```
 [Game]
@@ -38,7 +38,7 @@ cover="me3.png"
 title="Mass Effect 3"
 ```
 <details>
-  <summary>Variables detail</summary>
+  <summary>Variables detail 👈</summary>
 - parameter: launch parameter to launch the executable with.
 - launch: directory of the executable to launch.
 - description: optional.
@@ -47,7 +47,7 @@ title="Mass Effect 3"
 - title: name of the entry to display.
 </details>
 Executable and image file are automatically added to launcher.ini if found (subdirectories are not scanned). Althought it might not be the file  you wanted, you should still enter it yourself...  
-# Useful tips
+# Useful tips  
 You can use symlink to link game folder instead of copy the whole game file.  
 You can create multiple entry for the same game (making multiple launch option for a  single game possible):
 - Create an empty game folder.
