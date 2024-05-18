@@ -23,7 +23,9 @@ title="Application"
 <details>
   <summary>Variables detail 👈</summary>
 - ignore: set to 1 to hide this category.  
-- background: image file to use as background, place the image next to the ini file. If image file is not found, it will use default background instead.  
+  
+- background: image file to use as background, place the image next to the ini file. If image file is not found, it will use default background instead.
+
 - title: name of the category to display.  
 </details>  
 
@@ -41,10 +43,15 @@ title="Mass Effect 3"
 <details>
   <summary>Variables detail 👈</summary>
 - parameter: launch parameter to launch the executable with.  
-- launch: directory of the executable to launch.  
-- description: optional.  
-- last_play: this value will be updated automatically when you launch the game.  
-- cover: image file to use as cover, place the image file next to the ini.  
+  
+- launch: directory of the executable to launch.
+
+- description: optional.
+
+- last_play: this value will be updated automatically when you launch the game.
+
+- cover: image file to use as cover, place the image file next to the ini.
+
 - title: name of the entry to display.  
 </details>  
 
