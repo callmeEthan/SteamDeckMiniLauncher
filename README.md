@@ -52,7 +52,7 @@ title="Mass Effect 3"
 
 Executable and image file are automatically added to launcher.ini if found (subdirectories are not scanned). Althought it might not be the file  you wanted, you should still enter it yourself...  
 # Useful tips  
-You can use symlink to link game folder instead of copy the whole game file.  
+You can use symlink to link game folder instead of copying the whole game file.  
 You can create multiple entry for the same game (making multiple launch option for a  single game possible):
 - Create an empty game folder.
 - Edit the entry ini file, and set ```launch = "../Game folder/game.exe"```  
