@@ -45,7 +45,8 @@ title="Mass Effect 3"
 - last_play: this value will be updated automatically when you launch the game.
 - cover: image file to use as cover, place the image file next to the ini.
 - title: name of the entry to display.
-</details>
+</details>  
+
 Executable and image file are automatically added to launcher.ini if found (subdirectories are not scanned). Althought it might not be the file  you wanted, you should still enter it yourself...  
 # Useful tips  
 You can use symlink to link game folder instead of copy the whole game file.  
