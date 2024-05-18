@@ -12,7 +12,7 @@ It is useful for launching many mini game. Or a game series/franchise without th
 There is no config interface, all setting are inside ini files.  
 Once the launcher started, it will looks for game folders and create **ini** configuration file automatically.  
 The format is as follow:
-#### Categories
+### Categories
 Each folder next to the launcher.exe is considered a category (Games, Application, ect...), a **setting.ini** file will be created inside them.
 ```
 [SETTINGS]
@@ -26,7 +26,7 @@ title="Application"
 - background: image file to use as background, place the image next to the ini file. If image file is not found, it will use default background instead.
 - title: name of the category to display.
 </details>
-#### Games/Entries
+### Games/Entries
 Each folder inside the categories folder are considered an entry, and a **launcher.ini** file will be created inside them.  
 ```
 [Game]
